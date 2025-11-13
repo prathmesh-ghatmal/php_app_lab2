@@ -16,7 +16,7 @@ Deploy and migrate a simple PHP web application from **Windows (XAMPP)** to **Ub
 Open Command Prompt and run:
 ```bash
 cd C:\xampp\htdocs
-git clone https://github.com/<your-username>/<your-repo-name>.git php_app_lab2
+git clone https://github.com/prathmesh-ghatmal/php_app_lab2.git
 ````
 
 (Replace `<your-username>` and `<your-repo-name>` with your actual GitHub repo details.)
