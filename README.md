@@ -19,7 +19,6 @@ cd C:\xampp\htdocs
 git clone https://github.com/prathmesh-ghatmal/php_app_lab2.git
 ````
 
-(Replace `<your-username>` and `<your-repo-name>` with your actual GitHub repo details.)
 
 This will create your project folder:
 
